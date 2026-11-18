@@ -11,6 +11,6 @@ package com.mycompany.prog6112_exam_final;
 public class PROG6112_EXAM_FINAL {
 
     public static void main(String[] args) {
-YUYUYYJYTRTTURURURURUR
+YUYUYYJYTRTTURURURURURRTRTY
     }
 }
